@@ -1,0 +1,7 @@
+[package]
+name = "omniartis-demo"
+version = "0.0.1-pre.0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14.2"
